@@ -1,0 +1,3 @@
+# aed1 (ads1)
+#### (en) My Programming Exercises codes for Algoryhtms and Data Structures in C, used as methods of avaliaton. All the infos about it are available at: http://www.each.usp.br/digiampietri/ACH2023/ 
+#### (pt) Os codigos dos Exercicios de Programacao para a materia de Introducao a Programacao em C, usados como metodo de avaliacao. Todas as informacoes estao disponiveis em: http://www.each.usp.br/digiampietri/ACH2023/
